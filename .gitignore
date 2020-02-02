@@ -1,3 +1,13 @@
+
+# change gitignore
+.gitignore.bak
+
+# pycharm for control now
+pi_codes/control/.idea
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
